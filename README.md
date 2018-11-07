@@ -18,7 +18,7 @@ Welcome to the homework 2 repository.
 
 ## Homework text
 
-To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM-2018"> here </a>
+To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM-2018"> here </a>.
 
 ## Authors
 
