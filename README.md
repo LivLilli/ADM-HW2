@@ -11,7 +11,21 @@ Welcome to the homework 2 repository.
 > This file contains codes and comments about <i>Research Questions</i> and <i>Core Research Questions</i>.
 
 * `departures.html`:
-> This file contains the map of Core Research Question 2 for the visualization of the number of taxis departures from the > >  various areas.
+> This file contains the map of Core Research Question 2 for the visualization of the number of taxis departures from the   various areas.
 
 * `arrivals.html`:
 > This file contains the map of Core Reserch Question 2 for the visualization of the number of taxis arrivals in the different zones.
+
+## Homework text
+
+To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM-2018"> here </a>
+
+## Authors
+
+* Livia Lilli
+
+* Matteo Zmyslowski
+
+* Karamiko Alexander Krisna
+
+* Remon Rezk
