@@ -1,5 +1,4 @@
 # Homework 2 - How do Taxis move in NYC?
-______________________________________________________
 
 Welcome to the homework 2 repository.
 
