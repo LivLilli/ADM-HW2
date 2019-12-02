@@ -1,4 +1,4 @@
-# Homework 2 - How do Taxis move in NYC?
+# How do Taxis move in NYC? - Exploratory Data Analysis
 
 Welcome to the homework 2 repository.
 
@@ -18,7 +18,7 @@ Welcome to the homework 2 repository.
 
 ## Homework text
 
-To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM-2018"> here </a>.
+To see all the requests, you can go <a href = "https://github.com/CriMenghini/ADM/tree/master/2018/Homework_2"> here </a>.
 
 ## Authors
 
